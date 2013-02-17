@@ -5,8 +5,19 @@
 */
 $palmia = new Ravintola('vanhamaantie');
 $palmia->parsiRuokalista();
+
+/* Print each menu */
+foreach ($palmia->ruokalista as $list)
+{
+	foreach ($list as $menu)
+	{
+		echo '<p>' . $menu . '</p>';
+	}
+	echo '<br/><br/>';
+}
+
 echo '<pre>';
-var_dump($palmia->ruokalista);
+//var_dump($palmia->ruokalista);
 echo '<pre>';
 
 class Ravintola {
