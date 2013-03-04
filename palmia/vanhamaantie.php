@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lunch Menus</title>
+	<script src="http://code.jquery.com/jquery-1.9.0.js" type="text/javascript"></script>
+	<script>
+	$(document).ready(function() {
+		
+	});
+	</script>
+</head>
+<body>
 <?php
 /*
 @author Someone
