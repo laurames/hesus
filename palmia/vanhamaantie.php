@@ -22,10 +22,12 @@ $palmia->parsiRuokalista();
 /* Print each menu */
 foreach ($palmia->ruokalista as $list)
 {
+	echo '<div class="list">';
 	foreach ($list as $menu)
 	{
 		echo '<p>' . $menu . '</p>';
 	}
+	echo '</div>';
 	echo '<br/><br/>';
 }
 
