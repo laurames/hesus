@@ -8,6 +8,12 @@
 		
 	});
 	</script>
+	<style type="text/css" >
+		
+		.list {
+			
+		}
+	</style>
 </head>
 <body>
 <?php
@@ -18,7 +24,9 @@
 header('Content-type: text/html; charset=utf-8');
 $palmia = new Ravintola('vanhamaantie');
 $palmia->parsiRuokalista();
-
+?>
+<div id="menus">
+<?
 /* Print each menu */
 foreach ($palmia->ruokalista as $list)
 {
@@ -29,8 +37,9 @@ foreach ($palmia->ruokalista as $list)
 	}
 	echo '</div>';
 	echo '<br/><br/>';
-}
-
+}?>
+</div>
+<?
 echo '<pre>';
 //var_dump($palmia->ruokalista);
 echo '<pre>';
