@@ -1,5 +1,9 @@
 /* CSS Document */
 /*  Style for accordion slider */
+#accordion {
+
+}
+
 /*  Resource from: http://tympanus.net/codrops/2010/04/26/elegant-accordion-with-jquery-and-css3/ */
 ul.accordion{
     list-style:none;   
@@ -13,8 +17,9 @@ ul.accordion{
 }
 ul.accordion li{
     float:right;
-    width:115px;
-    height:480px;
+    width:147px; /* Change the width of all slides */ 
+                /* With this width, accordion fits in 1080px screen */
+    height:680px; /* Change the height of all the slides */ 
     display:block;
     border-right:2px solid #fff;
     border-bottom:2px solid #fff;
@@ -55,15 +60,15 @@ ul.accordion li .heading{
     font-style:normal;
     font-weight:bold;
     letter-spacing:1px;
-    font-size:14px;
+    font-size:20px;         /* Font size, check when is in final screen */
     color:#444;
     text-align:center;
     text-shadow:-1px -1px 1px #ccc;
 }
 ul.accordion li .description{
     position:absolute;
-    width:480px;
-    height:260px; /*Change from 175px, it was too short*/
+    width:580px;            /*Change from 480 so the opening is wider */
+    height:320px;           /* Height of the description of each day - Change from 175px, it was too short */
     bottom:0px;
     left:0px;
     display:none;
@@ -73,7 +78,7 @@ ul.accordion li .description h2{
     font-style:normal;
     font-weight:bold;
     letter-spacing:1px;
-    font-size:35px;
+    font-size:24px;         /* Font-size of day-header within the slide */
     color:#444;
     text-align:left;
     margin:0px 0px 15px 20px;
@@ -82,7 +87,7 @@ ul.accordion li .description h2{
 ul.accordion li .description p{
     margin:7px 22px;
     font-family: "Trebuchet MS", sans-serif;
-    font-size: 12px;
+    font-size: 16px;        /* Font-size of menus' list */
     font-style: italic;
     font-weight: normal;
     text-transform: none;
@@ -112,4 +117,5 @@ ul.accordion li .bgDescription{
     left:0px;
     width:100%;
     display:none;
+    text-shadow: 4px 4px 0px rgba(255, 255, 255, 1);
 }
