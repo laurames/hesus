@@ -61,7 +61,7 @@ ul.accordion li .heading{
     font-weight:bold;
     letter-spacing:1px;
     font-size:20px;         /* Font size, check when is in final screen */
-    color:#444;
+    color:#990000;          /*  Heading color and h2 of description, same color */
     text-align:center;
     text-shadow:-1px -1px 1px #ccc;
 }
@@ -79,10 +79,10 @@ ul.accordion li .description h2{
     font-weight:bold;
     letter-spacing:1px;
     font-size:35px;        /* Font-size of day-header within the slide */
-    color:#444;
+    color:#990000;          /*  Heading color and h2 of description, same color */
     text-align:left;
     margin:0px 0px 15px 20px;
-    text-shadow:4px 4px 0px rgba(255, 255, 255, 1);
+    text-shadow:5px 0.5px 5px rgba(255, 255, 255, 1);
 }
 ul.accordion li .description p{
     margin:7px 22px;
@@ -93,6 +93,7 @@ ul.accordion li .description p{
     text-transform: none;
     letter-spacing: normal;
     line-height: 1em;
+    text-shadow:3px 0.5px 3px rgba(255, 255, 255, 1);
 }
 ul.accordion li .description a{
     position:absolute;

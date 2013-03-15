@@ -36,17 +36,28 @@ $(function() {
                     }
                 });
 
-           		$('li:contains("vegetable")').last().css('background-image', 'url(img/vegetables.jpg)');
-           		$('li:contains("bread")').first().css('background-image', 'url(img/bread.jpg)');
+                //The most common
+           		$('li:contains("Bread")').css('background-image', 'url(img/bread.jpg)');
+                $('li:contains("vegetable")').css('background-image', 'url(img/vegetables.jpg)');
+           		
                 $('li:contains("rice")').first().css('background-image', 'url(img/rice.jpg)');
            		$('li:contains("boiled potatoes")').first().css('background-image', 'url(img/boiledpotatoes.jpg)');
 
            		$('li:contains("mushroom")').first().css('background-image', 'url(img/mushrooms.jpg)');
            		$('li:contains("sausage")').first().css('background-image', 'url(img/sausages.jpg)');
                 $('li:contains("chicken")').first().css('background-image', 'url(img/chicken.jpg)');
+                $('li:contains("beef")').first().css('background-image', 'url(img/beef.jpg)');
                 
                 $('li:contains("lentil")').first().css('background-image', 'url(img/lentilssoup.jpg)');
                 $('li:contains("fish")').first().css('background-image', 'url(img/whitefish.jpg)');
+                $('li:contains("Tuna fish and tomato pizza")').first().css('background-image', 'url(img/tunapizza.jpg)');
+                $('li:contains("ham salad")').first().css('background-image', 'url(img/hamsalad.jpg)');
+                $('li:contains("cauliflower")').first().css('background-image', 'url(img/coliflower.jpg)');
+                
+                $('li:contains("chickpea and cauliflower patties")').first().css('background-image', 'url(img/patties.jpg)');
+                $('li:contains("Soy and bean burritos")').first().css('background-image', 'url(img/soyaburritos.jpg)');
+
+
                 /*           		
                 var strL = $('li:contains("L")').text(); //extract content of paragraph and store
                 var strM = $('li:contains("M")').text(); //extract content of paragraph and store

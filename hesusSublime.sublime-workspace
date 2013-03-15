@@ -1,0 +1,727 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"textL"
+			],
+			[
+				"foun",
+				"foundgreenbeans"
+			],
+			[
+				"day",
+				"day"
+			],
+			[
+				"li",
+				"list"
+			],
+			[
+				"new",
+				"newList"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"file",
+				"file_name_marker"
+			],
+			[
+				"mark",
+				"markerFileName"
+			],
+			[
+				"erro",
+				"error_reporting"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"em",
+				"emptyMarker"
+			],
+			[
+				"emp",
+				"empty_model"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"arra",
+				"array	$… = array (…)"
+			],
+			[
+				"file_",
+				"file_ext_model"
+			],
+			[
+				"file_name_",
+				"file_name_model"
+			],
+			[
+				"file_n",
+				"file_name_marker"
+			],
+			[
+				"allo",
+				"allowed_ext_model"
+			],
+			[
+				"tye",
+				"type"
+			],
+			[
+				"all",
+				"all_errors"
+			],
+			[
+				"model",
+				"modelFileName"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"models",
+				"modelDescription"
+			],
+			[
+				"er",
+				"errors"
+			],
+			[
+				"tmp",
+				"tmp_name"
+			],
+			[
+				"move",
+				"move_uploaded_file"
+			],
+			[
+				"targe",
+				"target_path"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ac",
+				"act"
+			],
+			[
+				"form",
+				"formNew"
+			],
+			[
+				"position",
+				"positionAltitude"
+			],
+			[
+				"create",
+				"createEditForm"
+			],
+			[
+				"texture",
+				"textureFile"
+			],
+			[
+				"model_",
+				"model_file"
+			],
+			[
+				"mysql_er",
+				"mysql_error"
+			],
+			[
+				"posi",
+				"position_lat"
+			],
+			[
+				"tex",
+				"texture_file"
+			],
+			[
+				"postio",
+				"position_lat"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"text",
+				"text"
+			],
+			[
+				"ma",
+				"max"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_object"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"sca",
+				"scale"
+			],
+			[
+				"trans",
+				"translation"
+			],
+			[
+				"asset",
+				"assets3D"
+			],
+			[
+				"button",
+				"buttons"
+			],
+			[
+				"pop",
+				"popup"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"ico",
+				"icon"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"po",
+				"poi"
+			],
+			[
+				"custo",
+				"customizations"
+			],
+			[
+				"cust",
+				"customizations"
+			],
+			[
+				"reso",
+				"resource"
+			],
+			[
+				"beh",
+				"behaviours"
+			],
+			[
+				"dis",
+				"display_type"
+			],
+			[
+				"getMa",
+				"getMaxDistance"
+			],
+			[
+				"max",
+				"maxdistance"
+			],
+			[
+				"cosid",
+				"cosid"
+			],
+			[
+				"rou",
+				"route"
+			],
+			[
+				"getMai",
+				"getMail"
+			],
+			[
+				"ic",
+				"icon"
+			],
+			[
+				"author",
+				"author"
+			],
+			[
+				"3du",
+				"3duserpwd"
+			],
+			[
+				"db",
+				"db_connection"
+			],
+			[
+				"posit",
+				"position"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"positio",
+				"position_lng"
+			],
+			[
+				"data",
+				"databaseOutput"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"tr",
+				"tr"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"thu",
+				"thumbs"
+			],
+			[
+				"main",
+				"mainresource"
+			],
+			[
+				"Silta",
+				"silta-klubi"
+			],
+			[
+				"description",
+				"description"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "palmia/vanhamaantie.php",
+			"settings":
+			{
+				"buffer_size": 3931,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "palmia/functions.js",
+			"settings":
+			{
+				"buffer_size": 4792,
+				"line_ending": "Windows",
+				"name": "/* Javascript document */"
+			}
+		},
+		{
+			"file": "palmia/style.css",
+			"settings":
+			{
+				"buffer_size": 3315,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "palmia/ravintola.php",
+			"settings":
+			{
+				"buffer_size": 2696,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/hesus/index.html",
+		"/C/xampp/htdocs/junaio/page/db/update.php",
+		"/C/xampp/htdocs/junaio/page/db/insert.php",
+		"/C/xampp/htdocs/junaio/page/js/functions.js",
+		"/C/xampp/htdocs/junaio/junaioSQL_3D/src/search.php",
+		"/C/xampp/htdocs/junaio/page/db/config.php",
+		"/C/xampp/htdocs/junaio/page/php/uploader.php",
+		"/C/xampp/htdocs/junaio/page/db/act.php",
+		"/C/xampp/htdocs/junaio/test_uploader/index.php",
+		"/C/xampp/htdocs/junaio/page/index.php",
+		"/C/xampp/htdocs/junaio/junaioSQL_3D/html/arel/index.php",
+		"/C/xampp/htdocs/junaio/page/php/XMLgen.php",
+		"/C/xampp/htdocs/junaio/junaioSQL_3D/config/config.php",
+		"/C/xampp/htdocs/junaio/junaioSQL_3D/html/index.php",
+		"/C/xampp/htdocs/junaio/page/library/junaiopoibuilder.class.php",
+		"/C/xampp/htdocs/junaio/test_uploader/uploader.php",
+		"/C/xampp/htdocs/junaio/page/php/XMLagreg.php",
+		"/C/xampp/htdocs/junaio/junaioSQL_3D/html/arel/js/arel.js",
+		"/C/xampp/htdocs/junaio/junaioSQL_3D/library/junaiopoibuilder.class.php",
+		"/C/xampp/htdocs/junaio/junaioSQL_3D/html/arel/js/logic_LBS4.js",
+		"/C/xampp/htdocs/junaio/page/php/uploaderForm.php",
+		"/C/xampp/htdocs/junaio/junaio_LBS_A4/html/arel/js/logic_LBS4.js",
+		"/C/xampp/htdocs/junaio/junaioSQL_AREL/src/search.php",
+		"/C/xampp/htdocs/junaio/junaio_LBS_A4/src/search.php",
+		"/C/xampp/htdocs/junaio/junaioSQL_AREL/library/junaiopoibuilder.class.php",
+		"/C/xampp/htdocs/junaio/junaioSQL_AREL/html/index.php",
+		"/C/xampp/htdocs/junaio/junaioSQL_AREL/library/poitools.php",
+		"/C/xampp/htdocs/junaio/junaio_LBS_3_SQL/library/junaiopoibuilder.class.php",
+		"/C/xampp/htdocs/junaio/junaio_LBS_3_SQL/src/search.php",
+		"/C/xampp/htdocs/junaio/junaio_LBS_3_SQL/library/poitools.php",
+		"/C/xampp/htdocs/junaio/junaio_LBS_3_SQL/library/SinglePOI.php",
+		"/C/xampp/htdocs/junaio/junaio_LBS_3_SQL/html/index.php",
+		"/C/xampp/htdocs/junaio/page/db/remove.php",
+		"/C/xampp/htdocs/junaio/index.php",
+		"/C/xampp/htdocs/junaio/junaioSQL_3D/library/poitools.php",
+		"/C/xampp/htdocs/junaio/junaioSQL_3D/library/arel_xmlhelper.class.php",
+		"/C/xampp/htdocs/junaio/junaio_LBS_3_SQL/config/config.php",
+		"/C/xampp/htdocs/junaio/junaioSQL/html/index.php",
+		"/C/xampp/htdocs/junaio/junaioSQL/src/search.php",
+		"/C/xampp/htdocs/junaio/junaioSQL_3D/library/poibuilder.class.php",
+		"/C/xampp/htdocs/junaio/junaioSQL_3D/html/.htaccess",
+		"/C/xampp/htdocs/junaio/junaio_LBS_A4_SQL/html/index.php",
+		"/C/xampp/htdocs/junaio/junaio_LBS_3/html/index.php",
+		"/C/xampp/htdocs/junaio/junaio_LBS_3/src/search.php",
+		"/C/xampp/htdocs/junaio/js/functions.js",
+		"/C/xampp/htdocs/junaio/junaio_LBS_3/library/SinglePOI.php",
+		"/C/xampp/htdocs/junaio/junaio_LBS_1/library/junaio.class.php",
+		"/C/xampp/htdocs/junaio/junaio_LBS_1/src/search.php",
+		"/C/xampp/htdocs/junaio/junaio_LBS_3/library/junaio.class.php",
+		"/C/xampp/htdocs/junaio/junaioSQL/config/config.php",
+		"/C/xampp/htdocs/junaio/junaioSQL/library/client.php",
+		"/C/xampp/htdocs/junaio/junaioSQL/library/junaio.class.php",
+		"/C/xampp/htdocs/junaio/junaio_LBS_3/library/poibuilder.class.php",
+		"/C/xampp/htdocs/junaio/junaio_LBS_1/html/index.php",
+		"/C/xampp/htdocs/junaio/junaio_LBS_1/config/config.php",
+		"/C/xampp/htdocs/junaioSQL/library/junaio.class.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\hesus\\palmia\\lib",
+			"C:\\xampp\\htdocs\\junaio\\page",
+			"C:\\xampp\\htdocs\\junaio\\junaioSQL_3D\\library",
+			"C:\\xampp\\htdocs\\junaio\\junaioSQL_AREL\\library",
+			"C:\\xampp\\htdocs\\junaio\\junaio_LBS_3_SQL\\library",
+			"C:\\xampp\\htdocs\\junaio\\junaio_LBS_A4",
+			"C:\\xampp\\htdocs\\junaio\\junaioSQL_3D",
+			"C:\\xampp\\htdocs\\junaio\\junaioSQL",
+			"C:\\xampp\\htdocs\\junaio\\junaioSQL_3D",
+			"C:\\xampp\\htdocs\\junaio\\junaioSQL_3D\\library"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"action",
+			"find",
+			"147",
+			"148",
+			"h2",
+			"hover",
+			"text-sh",
+			" $('",
+			"foundrice",
+			"marker",
+			"../page",
+			"../",
+			"page/",
+			"Not upload",
+			"//$",
+			"\n		",
+			"');\n",
+			"end(",
+			"end",
+			"select(",
+			"		$",
+			");\n",
+			"trigger_error",
+			"3d",
+			"'];\n",
+			"?>",
+			"Kb",
+			"$\n",
+			"create",
+			"Debug",
+			"debug",
+			"setForce",
+			"SinglePOI",
+			"'];\n",
+			"WWW_ROOT",
+			"WWW",
+			"select",
+			"SimpleXML",
+			"simpleXML",
+			"assets3d",
+			"ob_flush()",
+			"SimpleXML",
+			"echoPOI",
+			"SimpleXML",
+			"simpleXML",
+			"simpleXMLExtended",
+			"simpleXML",
+			"createOu",
+			"create",
+			"query",
+			"setO",
+			"o",
+			"set",
+			"setMaxDistance",
+			"orientation",
+			"orientationç",
+			"orientation",
+			"Output",
+			"create3DLocationBasedPOI",
+			"icon",
+			"create3DLocationBasedPOI",
+			"$location",
+			"3D",
+			"include"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "palmia/vanhamaantie.php",
+					"settings":
+					{
+						"buffer_size": 3931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								602,
+								602
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "palmia/functions.js",
+					"settings":
+					{
+						"buffer_size": 4792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3487,
+								3487
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/* Javascript document */",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 420.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "palmia/style.css",
+					"settings":
+					{
+						"buffer_size": 3315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2314,
+								2314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 882.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "palmia/ravintola.php",
+					"settings":
+					{
+						"buffer_size": 2696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true
+}

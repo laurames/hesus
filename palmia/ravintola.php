@@ -1,5 +1,5 @@
 <?php
-
+/*	the general search for all restaurants */
 $palmia = new Ravintola('bulevardi');
 $palmia->parsiRuokalista();
 echo '<pre>';

@@ -38,6 +38,8 @@
 <body>
 <?php
 	/*
+	Menus only for vanha maantie 6 campus
+	catering from Palmia
 	@author Someone
 	@edited Karol
 	*/
@@ -70,7 +72,7 @@
 		}
 		//each list is for each day of the week
 		echo '<li class="bg'. $i. '">';
-			//Use cases switch to print day
+			//Use cases-switch to print day
 			echo '<div class="heading">'. $day .'</div>';
 
 			echo '<div class="bgDescription"></div>';
@@ -121,6 +123,7 @@
 			while ($this->palmia_virhesivu($listalinkit->plaintext)) {
 				$listalinkit = file_get_html('http://www.hel.fi/wps/portal/Palmia/Ruokalista');
 			}
+			
 			$bulevardilinkki = $listalinkit->find('form[id=restaurantlink_28]', 0);
 			$link = 'http://www.hel.fi' . $bulevardilinkki->action;
 			$request = array(
