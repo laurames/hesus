@@ -109,7 +109,7 @@
 			'perjantai',
 			'lauantai'
 		);
-
+		
 		public function __construct($toimipiste) {
 			include_once('lib/simple_html_dom.php');
 			$this->toimipiste = $toimipiste;
