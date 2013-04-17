@@ -2,9 +2,18 @@
 <?php header('Content-type: text/html; charset=utf-8'); ?>
 <html>
 <head>
+	<meta name=”viewport” content=”width=device-width, initial-scale=1.0, user-scalable=no”>
+
 	<title>Lunch Menus</title>
 	<script src="http://code.jquery.com/jquery-1.9.0.js" type="text/javascript"></script>
+
+	<!--multit touch plugin hammer.js -->
+	<script type="text/javascript" src="../multiGame/hammer.js"></script>
+	<script type="text/javascript" src="../multiGame/jquery.hammer.js"></script>
+	<!-- hammer ends-->
+	
 	<script src="functions.js" type="text/javascript"></script>
+
 	<link rel="stylesheet" href="style.css" type="text/css" media="screen"/>
 	<style type="text/css" >
 	/* CSS */
@@ -167,3 +176,6 @@
 
 	}
 ?>
+</div>
+</body>
+</html>

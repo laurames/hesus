@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name=”viewport” content=”width=device-width, initial-scale=1.0, user-scalable=no”>
+
+<title>Multitouch game</title>
+
+<script src="http://code.jquery.com/jquery-1.9.0.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="hammer.js"></script>
+<script type="text/javascript" src="jquery.hammer.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	var element = document.getElementById('test_el');
+
+    var hammertime = Hammer(element).on("tap", function(event) {
+        alert('hello!');
+    });
+});			
+</script>
+</head>
+
+<body>
+	<div id="test_el">multigame demo</div>
+	<button>Hello</button>
+
+
+</body>
+</html>
