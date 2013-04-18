@@ -1,0 +1,20 @@
+jQuery(function($) {
+    $(document).ready(function() {
+        $('#open').click(function() {
+            $('#sidePanel').animate({
+                'left': '0px'
+            }, 900);
+        });
+		
+		$('#close').click(function() {
+            $('#sidePanel').animate({
+                'left': '-657px'
+            }, 800);
+        });
+		
+		// Switch buttons from "Log In | Register" to "Close Panel" on click
+		$("#toggle a").click(function () {
+			$("#toggle a").toggle();
+		});
+    });
+});

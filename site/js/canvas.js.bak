@@ -1,0 +1,14 @@
+function draw() {
+	var ctx = document.getElementById('canvas').getContext('2d');
+	if(($('#sidePanel').offset.left) === 0){
+		ctx.canvas.width = window.innerWidth-2;
+	}
+	else if(($('#sidePanel').offset.left) === 657px){
+		ctx.canvas.width = window.innerWidth-657;
+	}
+	else(){
+		ctx.canvas.width  = (window.innerWidth/1.8);
+		ctx.canvas.height = window.innerHeight-2;
+	}
+	//...drawing code...
+}
