@@ -26,10 +26,11 @@
 		<script type="text/javascript" src="js/pngfix/supersleight-min.js"></script>
 	<![endif]-->
 	 
-    <!-- jQuery - the core -->
+    <!-- jQuery - the core 
 	<script src="js/jquery-1.3.2.min.js" type="text/javascript"></script>
 
-	<script src="http://code.jquery.com/jquery-1.9.0.js" type="text/javascript"></script>
+	<script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>-->
+	<script src="js/jquery_lib.js" type="text/javascript"></script>
 
 	<!--multit touch plugin hammer.js -->
 	<script type="text/javascript" src="js/hammer.js"></script>
@@ -84,7 +85,7 @@
 					    		break;
 						}
 						//each list is for each day of the week
-						echo '<li class="bg'. $i. '">';
+						echo '<li class="bg'. $i. ' small">';
 							//Use cases-switch to print day
 							echo '<div class="heading">'. $day .'</div>';
 

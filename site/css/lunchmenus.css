@@ -7,16 +7,18 @@
 /*  Resource from: http://tympanus.net/codrops/2010/04/26/elegant-accordion-with-jquery-and-css3/ */
 ul.accordion{
     list-style:none;   
-    position:absolute;
+    /*position:absolute; //remove
     /*right:80px;
     top:0px;*/
     font-family: Cambria, serif;
     font-size: 16px;
     font-style: italic;
     line-height: 1.5em;
+    display: block;
 }
 ul.accordion li{
-    float:right;
+    /*float:right;*/
+    display: inline-block;
     /* Change the width of all slides */ 
     
     width:215px;/* With this width, accordion fits in 1080px screen */
@@ -24,7 +26,6 @@ ul.accordion li{
     height:480px; /* Change the height of all the slides */ 
     width:115px; 
     
-    display:block;
     border-right:2px solid #fff;
     border-bottom:2px solid #fff;
     background-color:#fff;
@@ -36,6 +37,10 @@ ul.accordion li{
     -moz-box-shadow:1px 3px 15px #555;
     -webkit-box-shadow:1px 3px 15px #555;
     box-shadow:1px 3px 15px #555;
+}
+
+.small {
+
 }
 ul.accordion li.bg1{
     background-image:url(../img_food/1.jpg);
