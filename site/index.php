@@ -29,11 +29,11 @@
     <!-- jQuery - the core -->
 	<script src="js/jquery-1.3.2.min.js" type="text/javascript"></script>
 
-	<!--	<script src="http://code.jquery.com/jquery-1.9.0.js" type="text/javascript"></script> -->
+	<script src="http://code.jquery.com/jquery-1.9.0.js" type="text/javascript"></script>
 
 	<!--multit touch plugin hammer.js -->
-	<script type="text/javascript" src="../multiGame/hammer.js"></script>
-	<script type="text/javascript" src="../multiGame/jquery.hammer.js"></script>
+	<script type="text/javascript" src="js/hammer.js"></script>
+	<script type="text/javascript" src="js/jquery.hammer.js"></script>
 
 	<!-- Sliding effect -->
 	<script src="js/slide.js" type="text/javascript"></script>

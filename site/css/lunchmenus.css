@@ -17,10 +17,13 @@ ul.accordion{
 }
 ul.accordion li{
     float:right;
-    width:115px; /* Change the width of all slides */ 
-    /*width:215px;/* With this width, accordion fits in 1080px screen */
-    /*height:680px; /* Change the height of all the slides */ 
+    /* Change the width of all slides */ 
+    
+    width:215px;/* With this width, accordion fits in 1080px screen */
+    height:680px; /* Change the height of all the slides */ 
     height:480px; /* Change the height of all the slides */ 
+    width:115px; 
+    
     display:block;
     border-right:2px solid #fff;
     border-bottom:2px solid #fff;
@@ -68,7 +71,8 @@ ul.accordion li .heading{
 }
 ul.accordion li .description{
     position:absolute;
-    width:580px;            /*Change from 480 so the opening is wider */
+    /*width:580px;            /*Change from 480 so the opening is wider */
+    width:480px;            /*Change from 480 so the opening is wider */
     height:320px;           /* Height of the description of each day - Change from 175px, it was too short */
     bottom:0px;
     left:0px;
@@ -112,7 +116,7 @@ ul.accordion li .description a:hover{
 }
 
 ul.accordion li .bgDescription{
-    background:transparent url(ima_food/bgDescription.png) repeat-x top left;
+    background:transparent url(../img_food/bgDescription.png) repeat-x top left;
     height:340px;
     position:absolute;
     bottom:0px;
